@@ -58,7 +58,7 @@ author = "Filipe Fernandes"
 # |version| and |release|, also used in various other places throughout the
 # built documents.
 #
-from ioos_pkg_skeleton import __version__ as VERSION  # noqa
+from nc_compress import __version__ as VERSION  # noqa
 
 version = VERSION
 # The full version, including alpha/beta/rc tags.
